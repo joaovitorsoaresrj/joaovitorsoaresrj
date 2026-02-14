@@ -59,10 +59,3 @@ Busco constatemente aprimorar minhas habilidades técnicas e expandir meu conhec
   <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=joaovitorsoaresrj&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" />
   <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=joaovitorsoaresrj&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" />
 </p>
-
----
-
-### 🏆 Contribuições
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joaovitorsoaresrj&theme=tokyonight&locale=pt-br" alt="GitHub Streak" />
-</p>
